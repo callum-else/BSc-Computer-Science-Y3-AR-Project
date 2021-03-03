@@ -1,0 +1,2 @@
+APK/sol_sys_ar_v0-5-1.apk filter=lfs diff=lfs merge=lfs -text
+Unity[[:space:]]Project.zip filter=lfs diff=lfs merge=lfs -text
